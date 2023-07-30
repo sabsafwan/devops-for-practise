@@ -10,4 +10,5 @@ git config --global user.name""
 git remote -v
 git pull origin main
 git push origin main
+git remote set-url --push origin newurl [oldurl]
 
