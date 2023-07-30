@@ -8,3 +8,6 @@ git log --oneline --pretty
 git config --global user.email ""
 git config --global user.name""
 git remote -v
+git pull origin main
+git push origin main
+
